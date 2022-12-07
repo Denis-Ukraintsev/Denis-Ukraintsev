@@ -1,5 +1,5 @@
 ### Nice to meet You, my name is Denis 👋
-More info You can get from my repo "denis-portfolio" 😄
+- More info You can get from my repo "denis-portfolio" 😄
 
 <!--
 **Denis-Ukraintsev/Denis-Ukraintsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
